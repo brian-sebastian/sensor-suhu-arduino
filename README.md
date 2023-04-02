@@ -6,3 +6,4 @@ Alat Dan Bahan
 4. Kabel jumper
 5. Breadboard
 6. Buzzer
+7. Sensor Ultrasonik (Mengukur jarak)
